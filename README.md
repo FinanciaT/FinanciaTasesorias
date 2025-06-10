@@ -581,10 +581,7 @@
     function renderMainPage() {
       document.getElementById("main-container").innerHTML = `
         <header>
-          <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62frppnqrlpvjLNI898PbtswucibZR_-Kuw&s"
-            alt="Logo Financia-T"
-          />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62frppnqrlpvjLNI898PbtswucibZR_-Kuw&s" alt="Logo Financia-T" />
           <div>
             <h1>FINANCIA-T</h1>
             <p>Expertos en Asesoramiento Financiero</p>
@@ -647,11 +644,8 @@
           <button class="boton-principal" onclick="renderLogin()">Iniciar Sesión o Registro</button>
 
           <div class="galeria">
-             <img src="https://scontent.fmex11-3.fna.fbcdn.net/v/t39.30808-6/495300403_1010645387940981_2274864196300540329_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=prqSAKhPvzYQ7kNvwEkYlJD&_nc_oc=Adm011eGajQoNbR1exZm_bPIUUl2beCfCJMQFoSQhkCbs1j7WCDzdHcMNDYpxIcJDpsayr6WhardV4ZXjC0G4Hnh&_nc_zt=23&_nc_ht=scontent.fmex11-3.fna&_nc_gid=qosASZsBzsB39R6jQe6obQ&oh=00_AfKxofpIAyRZUND3MWY_0HFOGFAUeA4HJ20dt94f7nJ02g&oe=6845AAEC" alt="Foto 1 Financia-T">
-            <img
-              src="https://scontent.fmex11-1.fna.fbcdn.net/v/t39.30808-6/500768145_1132161568945579_3359912226161928656_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=inFRsd-iQQ4Q7kNvwFEVQkp&_nc_oc=AdkU2cuDLIbMN3CKNtwkb4_LZ7NYx4k-7FBnaAWiBL7Cu5QEvBdqMcYGkHYTcBuGMRob8Fu13M_xBq_iTiQj5Keb&_nc_zt=23&_nc_ht=scontent.fmex11-1.fna&_nc_gid=VdwHwBSeznI99oi9VpWZWA&oh=00_AfJBJcWy2D5n79277f1Ph0Sly38csf0iYRB-HLYO9sCAnw&oe=68457B3C"
-              alt="Foto 2 Financia-T"
-            />
+             <img src="https://scontent.fmex11-3.fna.fbcdn.net/v/t39.30808-6/495300403_1010645387940981_2274864196300540329_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=prqSAKhPvzYQ7kNvwEkYlJD&_nc_oc=Adm011eGajQoNbR1exZm_bPIUUl2beCfCJMQFoSQhkCbs1j7WCDzdHcMNDYpxIcJDpsayr6WhardV4ZXjC0G4Hnh&_nc_zt=23&_nc_ht=scontent.fmex11-3.fna&_nc_gid=qosASZsBzsB39R6jQe6obQ&oh=00_AfKxofpIAyRZUND3MWY_0HFOGFAUeA4HJ20dt94f7nJ02g&oe=6845AAEC" alt="Foto 1 Financia-T" />
+            <img src="https://scontent.fmex11-1.fna.fbcdn.net/v/t39.30808-6/500768145_1132161568945579_3359912226161928656_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=17&_nc_sid=127cfc&_nc_ohc=inFRsd-iQQ4Q7kNvwFEVQkp&_nc_oc=AdkU2cuDLIbMN3CKNtwkb4_LZ7NYx4k-7FBnaAWiBL7Cu5QEvBdqMcYGkHYTcBuGMRob8Fu13M_xBq_iTiQj5Keb&_nc_zt=23&_nc_ht=scontent.fmex11-1.fna&_nc_gid=VdwHwBSeznI99oi9VpWZWA&oh=00_AfJBJcWy2D5n79277f1Ph0Sly38csf0iYRB-HLYO9sCAnw&oe=68457B3C"alt="Foto 2 Financia-T" />
           </div>
         </section>
 
