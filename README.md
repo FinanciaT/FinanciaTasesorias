@@ -652,7 +652,6 @@
         <footer>
           &copy; 2025 FINANCIA-T. Todos los derechos reservados.
         </footer>
-      `;
     }
 
     function renderLogin() {
